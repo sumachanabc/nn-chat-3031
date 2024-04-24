@@ -8,11 +8,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@prisma/client": "5.9.1",
+    "@prisma/client": "5.13.0",
     "cookies": "0.9.1",
     "dayjs": "1.11.10",
     "http-auth": "4.2.0",
-    "prisma": "5.9.1",
+    "prisma": "5.13.0",
     "pug": "3.0.2"
   }
 }
